@@ -15,7 +15,7 @@
   - [Usage](#usage)
   - [Contributing](#contributing)
   - [License](#license)
-  - [Test Instructions](#tests)
+  - [Test Instructions](#testing)
   
   ## Installation
   
@@ -41,7 +41,7 @@
   
   Contact me at the email below if you would like to contribute.
   
-  ## Testing Guidelines
+  ## Testing
   
   Import the test_routes.json file from the assets folder to Insomnia to test all of the available routes.
   
