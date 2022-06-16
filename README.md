@@ -22,8 +22,9 @@
   1. Clone the code from the github repo. 
   2. Run "npm i" in your node terminal. 
   3. Create the database with the command "SOURCE db/schema.sql" in your mySql terminal. 
-  4. Seed the database with the command "npm run seed" in node terminal. 
-  5. To start the server, execute "npm start"
+  4. Input your database credentials in .env.Example and rename to .env
+  5. Seed the database with the command "npm run seed" in node terminal. 
+  6. To start the server, execute "npm start"
   
   [Install and Usage Video](https://youtu.be/ChIUrr72iI8 "Install and Usage Video")
   
